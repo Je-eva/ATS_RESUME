@@ -66,7 +66,8 @@ Smart ATS simulates the behavior of an **Applicant Tracking System (ATS)**, but 
 
 ## 📸 Screenshot
 
-*(You can add a screenshot of your Streamlit app here for visual context)*
+![Input & Response](https://github.com/user-attachments/assets/d1231002-7a00-4291-a81d-6dcfba7a8b8c)
+![Reponse](https://github.com/user-attachments/assets/856c0b4d-5ab5-4727-8c8d-a8e9e3a0e5e2)
 
 ---
 
