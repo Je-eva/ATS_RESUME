@@ -69,32 +69,6 @@ Smart ATS simulates the behavior of an **Applicant Tracking System (ATS)**, but 
 ![Input & Response](https://github.com/user-attachments/assets/d1231002-7a00-4291-a81d-6dcfba7a8b8c)
 ![Reponse](https://github.com/user-attachments/assets/856c0b4d-5ab5-4727-8c8d-a8e9e3a0e5e2)
 
----
-
-## 📦 Setup Instructions
-
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/smart-ats-gemini.git
-cd smart-ats-gemini
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Create a `.env` file and add your Google API key:
-```bash
-GOOGLE_API_KEY=your_key_here
-```
-
-4. Run the app:
-```bash
-streamlit run app.py
-```
-
----
 
 ## 🤝 Special Thanks
 **Thanks to [Kish Naik](https://www.youtube.com/@krishnaik06)** for providing open access and examples around **Google's Gemini API**, which inspired me to start exploring real-world applications of LLMs.
