@@ -71,7 +71,7 @@ Smart ATS simulates the behavior of an **Applicant Tracking System (ATS)**, but 
 
 
 ## 🤝 Special Thanks
-**Thanks to [Kish Naik](https://www.youtube.com/@krishnaik06)** for providing open access and examples around **Google's Gemini API**, which inspired me to start exploring real-world applications of LLMs.
+**Thanks to [Krish Naik](https://www.youtube.com/@krishnaik06)** for providing open access and examples around **Google's Gemini API**, which inspired me to start exploring real-world applications of LLMs.
 
 ---
 
